@@ -1,1 +1,2 @@
-this is E-store related to E-courses
+This is E-store related to E-courses,where you can offer your courses to the students
+
